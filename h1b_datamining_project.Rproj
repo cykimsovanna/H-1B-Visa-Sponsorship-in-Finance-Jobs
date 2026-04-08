@@ -1,0 +1,18 @@
+Version: 1.0
+ProjectId: 40b10917-cb76-4d73-bd5a-946f81d2d9dd
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+PythonType: conda
+PythonVersion: 3.10.16
+PythonPath: C:/Users/chakr/anaconda3/envs/bert_env/python.exe
